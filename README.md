@@ -25,5 +25,4 @@ This project aims to provide a single, easy-to-use framework to run a variety of
 ```bash
 git clone https://github.com/mohammad-arch-svg/HackingTool
 cd HackingTool
-chmod -R ethical.sh
  bash ethical.sh
